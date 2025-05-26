@@ -1,0 +1,2 @@
+# Download instruction
+In the repoitory, there's a green button `< > Code` at about the upper right corner. Click on that button, then download the Zip arhive, or you can click onto individual files, do a preview, then there's a download button called `download raw file` to download individual file.
